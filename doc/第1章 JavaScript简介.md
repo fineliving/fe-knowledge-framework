@@ -38,7 +38,7 @@
 - 文档对象模型（DOM）
 - 浏览器对象模型（BOM）
 
-![three-parts](/Users/liyang/项目/我的笔记本/images/03.JS/javascript高级程序设计/three-parts.png)
+![three-parts](../img/three-parts.png)
 
 #### 1.2.1 ECMAScript
 
