@@ -86,7 +86,7 @@ ECMA-262 给出了ECMAScript 兼容的定义。要想成为ECMAScript 的实现�
 
 2008 年，五大主流Web 浏览器（IE、Firefox、Safari、Chrome 和Opera）全部做到了与ECMA-262兼容。
 
-![browser-bugs](/Users/liyang/项目/我的笔记本/images/03.JS/javascript高级程序设计/browser-bugs.png)
+![browser-bugs](../img/browser-bugs.png)
 
 #### 1.2.2 文档对象模型（DOM）
 
@@ -99,7 +99,7 @@ DOM把整个页面映射为一个多层节点结构:
 - 通过DOM 创建的这个表示文档的树形图，开发人员获得了控制页面内容和结构的主动权。
 - 借助DOM 提供的API，开发人员可以轻松自如地删除、添加、替换或修改任何节点。
 
-<img src="/Users/liyang/项目/我的笔记本/images/03.JS/javascript高级程序设计/multi-node.png" alt="multi-node" style="zoom:50%;" />
+<img src="../img/multi-node.png" alt="multi-node" style="zoom:50%;" />
 
 ***2. 为什么要使用DOM？***
 
@@ -129,7 +129,7 @@ DOM把整个页面映射为一个多层节点结构:
 ***5. Web 浏览器对DOM 的支持：***
 
 支持DOM 已经成为浏览器开发商的首要目标，主流浏览器每次发布新版本都会改进对DOM的支持。
-![browser-bugs-dom](/Users/liyang/项目/我的笔记本/images/03.JS/javascript高级程序设计/browser-bugs-dom.png)    
+![browser-bugs-dom](../img/browser-bugs-dom.png)    
 
 #### 1.2.3 浏览器对象模型（BOM）
 
@@ -156,7 +156,7 @@ DOM把整个页面映射为一个多层节点结构:
 - 作为Netscape“继承人”的Mozilla 公司，是目前唯一还在沿用最初的JavaScript 版本编号序列的浏览器开发商。
 - Netscape/Mozilla 浏览器中JavaScript 版本号的递增过程：
 
-![js-edition](/Users/liyang/项目/我的笔记本/images/03.JS/javascript高级程序设计/js-edition.png)
+![js-edition](../img/js-edition.png)
 
 - 目前，JavaScript 2.0 还没有目标实现。
 
