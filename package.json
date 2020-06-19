@@ -1,0 +1,18 @@
+{
+  "name": "fe-knowledge-framework",
+  "version": "1.0.0",
+  "description": "前端类库框架",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@fineliving.github.com:fineliving/fe-knowledge-framework.git"
+  },
+  "author": "liyang",
+  "license": "ISC"
+}
